@@ -52,7 +52,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code>
 <br>
 <p align="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=mratanpara&&show_icons=true&title_color=ffffff&icon_color=03A9F4&text_color=daf7dc&bg_color=151515"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham4901&&show_icons=true&title_color=ffffff&icon_color=03A9F4&text_color=daf7dc&bg_color=151515"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4901&layout=compact&theme=tokyonight"/>
 </p>
 
