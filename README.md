@@ -1,6 +1,6 @@
 # Hey!, I'm Shubham Vyas. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mratanpara&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham4901&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham" /> </p>
 
 ## I am a diligent, and Honors student from RK University with programming and designing skills.
 
@@ -53,7 +53,7 @@
 <br>
 <p align="top">
   <img src="https://github-readme-stats.vercel.app/api?username=mratanpara&&show_icons=true&title_color=ffffff&icon_color=03A9F4&text_color=daf7dc&bg_color=151515"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mratanpara&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4901&layout=compact&theme=tokyonight"/>
 </p>
 
 <!-- <p  align="center"><img src="https://github.com/mratanpara/mratanpara/blob/main/code.gif" width="100%"></p> -->
