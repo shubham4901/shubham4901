@@ -1,35 +1,35 @@
-# Hey!, I'm Mohit Ratanpara. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
+# Hey!, I'm Shubham Vyas. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mratanpara&label=Profile%20views&color=0e75b6&style=flat" alt="mratanpara" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mratanpara&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham" /> </p>
 
 ## I am a diligent, and Honors student from RK University with programming and designing skills.
 
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/),Android.
-- ⚡ Fun fact - **i love** to drink **chai** anytime.
+- 🌱 I’m currently learning Kotlin,Android.
+- ⚡ Fun fact - **i love** to drink **coffee** anytime.
 
 
 ### 📫 Reach Me 
 
 <p align="left">
-  <a href="https://twitter.com/RatanparaMohit/" target="_blank">
+  <a href="https://svtwitter.etus.link" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/mohitratanpara/" target="_blank">
+  <a href="https://svlinkdin.etus.link" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/mohit._.patel121/" target="_blank">
+  <a href="https://svinstagram.etus.link" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=918980230414&text=&source=&data=]" target="_blank">
+  <a href="https://svwhatsapp.etus.link" target="_blank">
     <img src="https://raster.shields.io/badge/whatsapp-%23E4405F.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="whatsapp"/>
   </a>
-  <a href="https://www.facebook.com/mohit.ratanpara.7" target="_blank">
+  <a href="https://svfacebook.etus.link" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
-    <a href="https://t.me/mohitratanpara/" target="_blank">
+    <a href="https://svtelegram.etus.link" target="_blank">
     <img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=071A2C" alt="telegram"/>
   </a>
-  <a href="https://www.snapchat.com/add/mratanpara6/" target="_blank">
+  <a href="https://svsnapchat.etus.link" target="_blank">
     <img src="https://img.shields.io/badge/snapchat-%231877F2.svg?&style=for-the-badge&logo=snapchat&logoColor=white&color=071A2C" alt="snapchat"/>
   </a>
 </p>
