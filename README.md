@@ -2,10 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham4901&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham" /> </p>
 
-## I am a diligent, and Honors student from RK University with programming and designing skills.
+## I am a diligent, and Honors trainee engineer from <a href="www.simform.com">Simform Solutions</a> with programming and designing skills.
 
-- 🌱 I’m currently learning Kotlin,Android.
-- ⚡ Fun fact - **i love** to drink **coffee** anytime.
+- 🌱 I’m currently learning Kotlin,Android and Swift,iOS at <a href="www.simform.com">Simform Solutions</a>.
+- ⚡ Fun fact - I **love** to drink **coffee** anytime and wanna **Ride** ping me anytime and anywhere.
 
 
 ### 📫 Reach Me 
@@ -13,6 +13,9 @@
 <p align="left">
   <a href="https://svtwitter.etus.link" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  </a>
+  <a href="https://svstackoverflow.etus.link" target="_blank">
+    <img src="https://img.shields.io/badge/Stack Overflow-%231DA1F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=071A2C" alt="Stack Overflow"/>
   </a>
   <a href="https://svlinkdin.etus.link" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
