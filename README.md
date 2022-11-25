@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham4901&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham" /> </p>
 
-## I am a diligent, and Honors trainee engineer from <a href="www.simform.com">Simform Solutions</a> with programming and designing skills.
+## I am a diligent, and Honors native Android/iOS mobile developer from <a href="www.simform.com">Simform Solutions</a> with programming and designing skills.
 
 - 🌱 I’m currently learning Kotlin,Android and Swift,iOS at <a href="www.simform.com">Simform Solutions</a>.
 - ⚡ Fun fact - I **love** to drink **coffee** anytime and wanna **Ride** ping me anytime and anywhere.
